@@ -27,14 +27,6 @@ This product is **built based on community feedback**. Feel free (anonymously) t
 
 <br />
 
-## Deployment Scripts
-
-- **Docker** - execute the app using a sandboxed container
-- **Gunicorn** / Nginx
-- **Waitress** - Gunicorn equivalent for Windows.
-
-<br />
-
 ## Dashboard Links
 
 - [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) - Product page
